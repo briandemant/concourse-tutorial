@@ -13,7 +13,7 @@ resources:
 - name: tutorial
   type: git
   source:
-    uri: https://github.com/starkandwayne/concourse-tutorial.git
+    uri: https://github.com/briandemant/concourse-tutorial.git
     branch: develop
 
 jobs:

@@ -21,4 +21,4 @@ Normal pipelines do not include these prefixes. The Miscellaneous lessons' pipel
 
 ## Requests for Lessons
 
-If there is a lesson you'd like added to the Concourse Tutorial book, please [create an Issue](https://github.com/starkandwayne/concourse-tutorial/issues). It is very interesting to learn how you and your team are using Concourse, or looking to switch from a previous CI/CD tool to Concourse.
+If there is a lesson you'd like added to the Concourse Tutorial book, please [create an Issue](https://github.com/briandemant/concourse-tutorial/issues). It is very interesting to learn how you and your team are using Concourse, or looking to switch from a previous CI/CD tool to Concourse.
